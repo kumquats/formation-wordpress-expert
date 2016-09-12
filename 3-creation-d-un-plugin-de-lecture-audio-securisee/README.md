@@ -3,6 +3,8 @@ TP : Création d'un plugin de lecture audio sécurisée
 
 ## Objectifs
 
+Créer une extension WordPress sécurisant la lecture de player audio en limitant le nombre d'écoute par heure par ip.
+
 ## Préparatifs
 
 - Télécharger [The WordPress Plugin Boilerplate](http://wppb.io/)

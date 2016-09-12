@@ -3,6 +3,8 @@ TP : Mettre à jour les données des produits à distance avec l'API Rest
 
 ## Objectifs
 
+Créer un client en PHP qui consommera l'API REST de WooCommerce.
+
 ## Préparatifs
 
 1. Installation en ligne de commande du plugin [WooCommerce](https://woocommerce.com)
